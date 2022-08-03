@@ -11,7 +11,7 @@ export default function Home() {
 			</Head>
 
 			<main className={styles.main}>
-				<h1 className={styles.title}>Welcome to My site!</h1>
+				<h1 className={styles.title}>Welcome to My site! Take 2</h1>
 
 				<p className={styles.description}>
 					Get started by editing{' '}
